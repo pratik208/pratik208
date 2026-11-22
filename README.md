@@ -6,7 +6,7 @@ Building scalable, production-ready applications using **Java, Spring Boot, Angu
 ---
 
 ## 🔥 About Me
-- 🧑‍💻 Software Developer with 1.5+ years of experience  
+- 🧑‍💻 Software Developer with 2.5+ years of experience  
 - 💼 Working on enterprise-grade financial platforms (NSE client at TCS)  
 - 📱 Built and deployed full-featured Android applications (EduQuest, Blood Connect)  
 - ⚡ Strong in Java, REST APIs, Angular, Firebase, MVVM, and Spring Boot  
@@ -18,7 +18,7 @@ Building scalable, production-ready applications using **Java, Spring Boot, Angu
 ## 🛠 Tech Stack
 
 **Frontend:** Angular, HTML, CSS, TypeScript  
-**Backend:** Java, Spring Boot, Microservices, Django REST  
+**Backend:** Java, Spring Boot, Microservices
 **Mobile:** Android Studio, Java, Kotlin, Firebase Auth, Realtime DB, Storage  
 **Database:** PostgreSQL, MySQL, SQL  
 **Tools:** Git, GitHub, Jenkins (CI/CD), Postman, Linux, Gradle, Maven  
